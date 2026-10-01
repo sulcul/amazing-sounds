@@ -1,0 +1,3 @@
+﻿analysis_variant,bias_mL,limits_of_agreement_mL,mape_percent,pearson_r
+Deployed pipeline (flow model / measured RR, all 17 conditions),-7.7,"-171.8 to +156.4",17.6,0.885
+Sensitivity (first condition of each attachment period excluded),-1.4,"-139.8 to +137.1",13.7,0.920
